@@ -2,8 +2,15 @@
 #### [首页](?file=home-首页)
 
 ##### 资料收集
+- **计算机技术**
+    - **github**
+        - [git](?file=001-资料收集/0001-计算机技术/001-github/001-git "git")
+    - [docker](?file=001-资料收集/0001-计算机技术/002-docker "docker")
+- **编辑工具**
+    - [latex](?file=001-资料收集/002-编辑工具/001-latex "latex")
+    - [wiki](?file=001-资料收集/002-编辑工具/002-wiki "wiki")
+    - [markdown](?file=001-资料收集/002-编辑工具/003-markdown "markdown")
 - [网络资源合集](?file=001-资料收集/01-网络资源合集 "网络资源合集")
-- [github](?file=001-资料收集/02-github "github")
 - [kaggle](?file=001-资料收集/03-kaggle "kaggle")
 
 ##### 学习amWiki
