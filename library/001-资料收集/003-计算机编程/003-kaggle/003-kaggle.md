@@ -1,4 +1,9 @@
 
+### 分分钟，杀入Kaggle TOP 5% 系列（1）###
+https://zhuanlan.zhihu.com/p/27550334
+
+### 分分钟，杀入Kaggle TOP 5% 系列（2）###
+https://zhuanlan.zhihu.com/p/28795160
 
 ### 适合新人的Kaggle项目 ###
 https://zhuanlan.zhihu.com/p/113623639>1.
