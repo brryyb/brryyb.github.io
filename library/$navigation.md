@@ -32,6 +32,8 @@
 - **VPS**
     - [网络设置](?file=001-资料收集/008-VPS/002-网络设置 "网络设置")
     - [solusvm](?file=001-资料收集/008-VPS/100-solusvm "solusvm")
+    - [tickets](?file=001-资料收集/008-VPS/300-tickets "tickets")
+    - [cmd](?file=001-资料收集/008-VPS/500-cmd "cmd")
 - [网络资源合集](?file=001-资料收集/01-网络资源合集 "网络资源合集")
 - **文史**
     - **人物**
